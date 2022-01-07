@@ -13,5 +13,5 @@ function tscopy() {
 
 
 function msg() {
-  window.alert("La copie d'images est interdite sur ce site./nPour plus d'informations visitez timsev.tk");return false;
+  window.alert("La copie d'images est interdite sur ce site.\nPour plus d'informations visitez timsev.tk");return false;
 }
