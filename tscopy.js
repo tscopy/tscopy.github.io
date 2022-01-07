@@ -13,5 +13,5 @@ function tscopy() {
 
 
 function msg() {
-  window.alert("Se site est proteger du vol d'image\n\nLa copie d'image est interdite sur ce site.");return false;
+  window.alert("La copie d'images est interdite sur ce site./nPour plus d'informations visitez timsev.tk");return false;
 }
